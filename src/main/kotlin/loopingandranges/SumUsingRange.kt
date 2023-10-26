@@ -1,4 +1,0 @@
-package loopingandranges
-
-class SumUsingRange {
-}
